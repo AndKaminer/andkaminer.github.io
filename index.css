@@ -1,0 +1,40 @@
+@keyframes typing {
+    from {width: 0}
+    to {width: 27.5%}
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    min-width: 100%;
+    min-height: 50%;
+}
+
+.hi-text {
+    overflow:hidden;
+    flex-direction:row;
+    white-space: nowrap;
+    font-size: 4rem;
+    width: 0;
+    animation: 
+    typing 1.5s steps(14, end) forwards;
+}
+
+.about-text {
+    display: flex;
+    flex-direction:column; 
+    font-size: 1.2rem;
+    margin: 1.5rem;
+    justify-content: center;
+    text-transform: none;
+    color: black;
+    white-space: pre-line;
+}
+
+
+ul {
+    padding-left: 40px;
+}
