@@ -1,6 +1,6 @@
 @keyframes typing {
     from {width: 0}
-    to {width: 75vw}
+    to {width: (14 * 10)vw}
 }
 
 .text-container {
