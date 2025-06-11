@@ -17,7 +17,7 @@
     overflow:hidden;
     flex-direction:row;
     white-space: nowrap;
-    font-size: 4rem;
+    font-size: 4vw;
     width: 0;
     animation: 
     typing 1.5s steps(14, end) forwards;
