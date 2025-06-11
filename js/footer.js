@@ -4,7 +4,7 @@ document.write('\
                 <a href="mailto:akaminer@gatech.edu" class ="fa fa-envelope"></a>\
             </div>\
             <div>\
-                <a href="https://linkedin.com/in/andrew-kaminer-a89156228" class="fa fa-linkedin" target="_blank"></a>\
+                <a href="https://linkedin.com/in/andrew-kaminer" class="fa fa-linkedin" target="_blank"></a>\
             </div>\
             <div>\
                 <a href="https://github.com/AndKaminer" class="fa fa-github" target="_blank"></a>\
