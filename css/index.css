@@ -18,7 +18,7 @@
     flex-direction:row;
     white-space: nowrap;
     font-size: 5vw;
-    width: 0;
+    width: 70vw;
     animation: 
     typing 1.5s steps(14, end) forwards;
 }
