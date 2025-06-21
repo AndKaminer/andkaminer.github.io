@@ -8,4 +8,5 @@ pin: true
 Hello world!
 
 I sit in an apartment in Boulder, CO as I write this. Figured it was about time
-to fix up my 2006-esque website. It's time to lock in!
+to fix up my 2006-esque website. It's time to lock in! I am cooking up a fun
+project or two that will be cool to write about!
