@@ -1,11 +1,11 @@
 [
   {
-    "title": "Hello World!",
-    "url": "/posts/helloworld/",
-    "categories": "Hello, World",
-    "tags": "basics",
-    "date": "2025-06-20 12:02:00 -0400",
-    "content": "Hello world!  I sit in an apartment in Boulder, CO as I write this. Figured it was about time to fix up my 2006-esque website. It’s time to lock in! I am cooking up a fun project or two that will b..."
+    "title": "On Potential as a Loss Function",
+    "url": "/posts/on-potential/",
+    "categories": "Humanities, Processes",
+    "tags": "processes, pseudomath",
+    "date": "2025-06-29 15:02:00 -0400",
+    "content": "1.1 I probably spend too much time thinking about potential. What is the highest a person can achieve if they make the correct choice at every opportunity? In a deterministic world, maximum potenti..."
   }
   
 ]

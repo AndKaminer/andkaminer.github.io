@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Hi! I'm Andrew. I'm a computer scientist and engineer 
@@ -11,7 +11,8 @@ I came into college interested in security and low-level
 systems (especially on the red team). Then, I got a bit 
 sidetracked into ML. Now, I find myself working at their
 intersection, particularly in making ML systems fast and
-secure. I love me some pure ML research though :)
+secure. I do have a soft spot for pure work in any of
+those areas though.
 
 I'm also casually interested in neat data structures and
 algorithms, operating systems, networking, and assorted 

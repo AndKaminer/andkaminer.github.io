@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Andrew Kaminer</title>
   <subtitle>Andrew Kaminer</subtitle>
-  <updated>2025-06-21T01:17:34-04:00</updated>
+  <updated>2025-06-29T15:34:38-04:00</updated>
   <author>
     <name>Andrew Kaminer</name>
     <uri>http://localhost:4000/</uri>
@@ -20,27 +20,27 @@
 
   
   <entry>
-    <title>Hello World!</title>
-    <link href="http://localhost:4000/posts/helloworld/" rel="alternate" type="text/html" title="Hello World!" />
-    <published>2025-06-20T12:02:00-04:00</published>
+    <title>On Potential as a Loss Function</title>
+    <link href="http://localhost:4000/posts/on-potential/" rel="alternate" type="text/html" title="On Potential as a Loss Function" />
+    <published>2025-06-29T15:02:00-04:00</published>
   
-    <updated>2025-06-21T00:37:18-04:00</updated>
+    <updated>2025-06-29T15:02:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/helloworld/</id>
-    <content type="text/html" src="http://localhost:4000/posts/helloworld/" />
+    <id>http://localhost:4000/posts/on-potential/</id>
+    <content type="text/html" src="http://localhost:4000/posts/on-potential/" />
     <author>
       <name>Andrew Kaminer</name>
     </author>
 
   
     
-    <category term="Hello" />
+    <category term="Humanities" />
     
-    <category term="World" />
+    <category term="Processes" />
     
   
 
-  <summary>Hello world!  I sit in an apartment in Boulder, CO as I write this. Figured it was about time to fix up my 2006-esque website. It’s time to lock in! I am cooking up a fun project or two that will be cool to write about!</summary>
+  <summary>1.1 I probably spend too much time thinking about potential. What is the highest a person can achieve if they make the correct choice at every opportunity? In a deterministic world, maximum potential would be the argmax over all “timelines” of a person’s success. Naturally, this brings us to the question of quantifying success, but I’m going to take the lazy approach and declare that out of sco...</summary>
 
   </entry>
 
