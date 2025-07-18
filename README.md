@@ -18,6 +18,8 @@
 
 </div>
 
+:)
+
 ### Third-Party Assets
 
 This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
