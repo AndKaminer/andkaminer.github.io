@@ -10,7 +10,7 @@ set -eu
 
 SITE_DIR="_site"
 
-_config="_config.yml"
+_config="_config.test.yml"
 
 _baseurl=""
 
