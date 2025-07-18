@@ -35,8 +35,15 @@
             <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
           </a>
         </li>
+
         <!-- .nav-item -->
       {% endfor %}
+      <li class="nav-item">
+        <a href="{{ '/assets/pdf/AndrewKaminerResume2025.pdf' | relative_url }}" class="nav-link" target="_blank">
+          <i class="fa-fw fas fa-stream"></i>
+            <span>{{ "resume" | upcase }}</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
